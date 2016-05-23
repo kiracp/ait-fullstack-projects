@@ -1,0 +1,41 @@
+curl -I localhost:5000/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Date: Thu, 08 Oct 2015 15:05:07 GMT
+Connection: keep-alive
+
+curl -I localhost:5000/about
+HTTP/1.1 200 OK
+Content-Type: text/html
+Date: Thu, 08 Oct 2015 15:05:53 GMT
+Connection: keep-alive
+
+curl -I localhost:5000/ABOUT
+HTTP/1.1 200 OK
+Content-Type: text/html
+Date: Thu, 08 Oct 2015 15:06:00 GMT
+Connection: keep-alive
+
+curl -I localhost:5000/about/
+HTTP/1.1 200 OK
+Content-Type: text/html
+Date: Thu, 08 Oct 2015 15:06:03 GMT
+Connection: keep-alive
+
+curl -I localhost:5000/me
+HTTP/1.1 301 Moved Permanently
+Location: /about
+Date: Thu, 08 Oct 2015 15:06:09 GMT
+Connection: keep-alive
+
+curl -I localhost:5000/css/base.css
+HTTP/1.1 200 OK
+Content-Type: text/css
+Date: Thu, 08 Oct 2015 15:06:18 GMT
+Connection: keep-alive
+
+curl -I localhost:5000/img/image1.png
+HTTP/1.1 200 OK
+Content-Type: image/png
+Date: Thu, 08 Oct 2015 15:06:29 GMT
+Connection: keep-alive

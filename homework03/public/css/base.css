@@ -1,0 +1,21 @@
+
+html {
+    margin: 0;
+    padding: 0;
+    background-color: #aaaaaa;
+    text-align: center;
+}
+h1 {
+    font-family: 'Gotham', sans-serif;
+    font-size: 1.8em;
+    font-weight: normal;
+    padding: 5px 10px;
+}
+body {
+    font-size: .95em; 
+    line-height: 1.8em;
+    font-family: 'Georgia', serif;
+    margin-right:18%;
+    margin-left: 18%;
+    padding: 1em 50px;
+}

@@ -1,0 +1,31 @@
+html {
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7; 
+    margin: 100px auto 0;
+    margin-left: 20%
+}
+
+h1 {
+    font-family: 'Helvetica Neue', 'Lucida Grande', sans-serif; 
+    font-size: 1.8em;
+    font-weight: normal;
+    color: #333;
+    line-height: 1.25em;
+    max-width: 600px;
+    width: 100%;
+
+}
+a {
+    font-family: 'Lucida Grande', sans-serif;
+    color: #646464;
+    margin-top: 120px;
+    padding-top: 90px;
+}
+body {
+	font-family: 'Helvetica Neue', 'Lucida Grande', sans-serif;  
+	color: #bbb;
+    display: inline;
+	font-size: .86667em;
+    margin-top: 90px;
+}

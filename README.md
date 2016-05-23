@@ -1,8 +1,17 @@
 ## kcp288-homework01 - Basic Javascript I: Blackjack App
+Beginning Javascript project. Implementation of a basic commandline blackjack app.
+
+Uses the `readline-sync` module.
 
 ## kcp288-homework03 - Basic Javascript II: JSON Basketball 
+Grabs JSON data from NBA games and calculates player data using Javascript higher order functions.
+
+Uses the `requests` module.
 
 ## kcp288-homework03 - Express Movies App
+Implementation of a basic HTTP server that displays static files, in this case two images on two routes. 
+
+Also implementation of a basic Express app with the Handlebars templating engine.
 
 ## kcp288-homework04 - The Busy Birder
 
