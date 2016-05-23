@@ -1,0 +1,91 @@
+/*   
+Dark green #71A159
+Light green #C3C968
+Red #F14434
+  */
+
+html{
+	background-color: white;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+h1 {
+	font-family: 'Passion One', cursive;
+	color: #333377; 
+	background: #F14434; 
+	font-size: 4em; 
+	line-height: .3em; 
+	float: left; 
+
+}
+
+body {
+  text-align: left;
+  padding: 50px;
+  margin: 50px;
+  font: 2.5em;
+  color: #333377;
+}
+input {
+  border: 0;
+  outline: 0;
+  background:transparent;
+  border-bottom: 2px solid #333377;
+  color: #F14434;
+  font-size: 1.7em;
+  text-align: center;
+  font-family: 'Passion One', cursive;
+  padding: 5px;
+  width: 50px;
+}
+button {
+  font-size: 1em;
+  font-family: 'Roboto Condensed', sans-serif;
+  height: 40px;
+  background: #333377;
+  color: white;
+  width: 80px;
+  border: transparent;
+}
+button:hover {
+  background: #F14434;
+  color: white;
+}
+#card {
+	color: #F14434;
+	border: 2px solid #F14434;
+	font-size: 1em;
+	text-align: center;
+	vertical-align: middle;
+	background: #F14434;
+	margin: 10px;
+	width: 85px;
+	height: 90px;
+	padding-top: 2em;
+	display: inline-block;
+}
+/* Extra credit: Card hover*/
+#card:hover {
+	background: #333377;
+	border: 2px solid #333377;
+}
+#container {
+	width: 80%;
+	display: block;
+}
+#winning {
+	font-family: 'Passion One', cursive;
+	color: #F14434; 
+	font-size: 4em; 
+	float: center; 
+}
+#guess {
+  float:center;
+  font: 3em;
+  color: #333377;
+}
+#guessesInfo {
+  display: block;
+  float:center;
+  font: 3em;
+  color: #333377;
+}

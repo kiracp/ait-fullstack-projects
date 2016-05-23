@@ -1,0 +1,95 @@
+@import url('http://fonts.googleapis.com/css?family=Oswald');
+@import url('http://fonts.googleapis.com/css?family=Roboto+Slab');
+
+html {
+  background-color: #34324b;
+  text-align: center;
+}
+h1{
+  font-family: "Oswald", sans-serif;
+  font-size: 2.2em;
+  color: #cdb44a;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: "Roboto Slab", sans-serif;
+  font-size: 1.2em;
+  color: #fff;
+  font-style: normal;
+  font-weight: normal;
+}
+input {
+  margin-top: 30px;
+  font-size: .9em;
+  font-weight: bold;
+  font-family: "Roboto Slab", serif;
+  border: transparent;
+}
+input[type=text] {
+  text-align: center;
+  background: white;
+  width: 200px;
+  height: 40px;
+  color: #34324b;
+}
+input[type=number] {
+  text-align: center;
+  background: white;
+  width: 90px;
+  height: 40px;
+  color: #34324b;
+}
+input[type=submit] {
+  margin-left: 20px;
+  height: 40px;
+  width: 110px;
+  background: #cdb44a;
+  color: white;
+}
+a {
+  font-family: "Roboto Slab", sans-serif;
+  font-size: .8em;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+a:hover{
+  color: #2b997d;
+}
+ul{
+  list-style-type: square;
+  list-style-position: inside;
+}
+button {
+  background: transparent;
+  border: 2px solid white;
+  display: block;
+  height: 70px;
+  width: 130px;
+  cursor: pointer;
+  font-size: 1.2em;
+  font-weight: bold;
+  font-family: "Roboto Slab", serif;
+  color: white;
+}
+button:hover {
+  background: white;
+  color: #34324b;
+}
+hr {
+  margin-top: 1em;
+  margin-bottom:1em;
+  color: #cdb44a;
+  background-color: #cdb44a;
+  height:2px;
+  width: 80%;
+}
+body {
+  font-size: 1.2em;
+  font-family: "Roboto Slab", serif;
+  margin: 8%;
+  margin-left: 18%;
+  margin-right: 18%;
+  color: #ffffff;
+}

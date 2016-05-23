@@ -1,0 +1,25 @@
+<h1> LET'S WATCH SOME MOVIES </h1>
+
+<form method="GET" action="">
+	Director:   <input type="text" name="director" >
+	<input type="submit" value="Submit">
+</form>
+<br>
+
+{{displaying}}
+
+<br><br>
+<table >
+	<tr>
+	<th>TITLE</th>
+	<th>YEAR</th>
+	<th>DIRECTOR</th>
+	</tr>
+{{#each movies}}
+	<tr>
+	<td>{{title}}</td>
+	<td>{{year}}</td>
+	<td>{{director}}</td>
+	</tr>
+{{/each}}
+</table>

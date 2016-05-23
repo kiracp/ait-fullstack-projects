@@ -1,0 +1,85 @@
+html{
+	background-color: #85ae8d;
+	font-family: 'PT Serif', serif;
+}
+h1 {
+	text-align: center;
+	color: #5c545c;
+	font-style: italic;
+}
+h3 {
+	color: #419586;
+	text-align:left;
+}
+#container {
+	width: 70%;
+}
+#headerimage {
+	text-align: center;
+}
+a {
+  color: #95725a;
+  text-align: left;
+}
+body {
+  text-align: left;
+  padding: 50px;
+  font: 14px;
+  color: #5c545c;
+}
+
+#main {
+	padding: 20px;
+	background-color: #c0dd93;
+	border-radius: 10px;
+}
+#create {
+	background-color: #85ae8d;
+	padding: 20px;
+	border-radius: 10px;
+}
+li{
+	list-style-type: none;
+	font-size: 1.2em;
+	line-height: 2.2em;
+}
+input {
+  font-weight: bold;
+  border: transparent;
+  padding: 5px;
+  font-size: 1em;
+  font-family: 'PT Serif', serif;
+}
+input[type=text] {
+  background: white;
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 200px;
+  color: #5c545c;
+}
+input[type=number] {
+  background: white;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 50px;
+  color: #5c545c;
+}
+input[type=submit] {
+  font-size: 1em;
+  height: 40px;
+  background: #98725c;
+  color: white;
+  width: 200px;
+}
+input[type=submit]:hover {
+  background: #5c544f;
+  color: white;
+}
+input[type=checkbox] {
+	margin-right: 20px;
+	border-color: #85ae8d;
+	box-shadow: none;
+	background: white;
+}
