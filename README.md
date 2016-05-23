@@ -18,7 +18,7 @@ This app allows the user to store the birds they have sighted! Concepts included
 
 Run locally using `npm install --save`, running `node app.js` and then opening `localhost:3000` in your browser.
 
-![Busy Birder](homework04/birder.png?raw=true =300x “The Busy Birder“)
+![Busy Birder](homework04/birder.png?raw=true “The Busy Birder“ =300x )
 
 #### kcp288-homework05 - Let's Watch Some Movies!
 This MoviesDB uses the commandline mongodb client to create a database, collection and several documents to store movies! It also uses the mongoose node module to read and write data to mongodb.
