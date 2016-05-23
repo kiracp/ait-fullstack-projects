@@ -25,7 +25,7 @@ This MoviesDB uses the commandline mongodb client to create a database, collecti
 
 Run locally using `npm install --save`, running `node app.js` and then opening `localhost:3000/movies` in your browser.
 
-<img src="/homework05/movies_prev.png" width=“200">
+<img src="/homework05/movies_prev.png" align=“center” width=“200px”>
 ![MoviesDB](/homework05/movies_prev.png?raw=true =300x "Let's Watch Some Movies!")
 
 #### kcp288-homework06 - Shoppy Shopperson
