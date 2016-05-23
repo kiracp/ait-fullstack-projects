@@ -18,26 +18,26 @@ This app allows the user to store the birds they have sighted! Concepts included
 
 Run locally using `npm install --save`, running `node app.js` and then opening `localhost:3000` in your browser.
 
-![Busy Birder](homework04/birder.png?raw=true “The Busy Birder“)
+![Busy Birder](homework04/birder.png?raw=true =300x “The Busy Birder“)
 
 #### kcp288-homework05 - Let's Watch Some Movies!
 This MoviesDB uses the commandline mongodb client to create a database, collection and several documents to store movies! It also uses the mongoose node module to read and write data to mongodb.
 
 Run locally using `npm install --save`, running `node app.js` and then opening `localhost:3000/movies` in your browser.
 
-![MoviesDB](/homework05/movies_prev.png?raw=true "Let's Watch Some Movies!")
+![MoviesDB](/homework05/movies_prev.png?raw=true =300x "Let's Watch Some Movies!")
 
 #### kcp288-homework06 - Shoppy Shopperson
 This app built on the work with mongodb and included creating schemae, adding slugs to the schema and extracting parameters from a URL path. The app allows the user to create grocery lists, check items of lists, and save multiple lists.
 
 Run locally using `npm install --save`, running `node bin/www` and then opening `localhost:3000` in your browser.
 
-![Shoppy](homework06/shoppy.png?raw=true “Shoppy Shopperson“)
+![Shoppy](homework06/shoppy.png?raw=true =300x “Shoppy Shopperson“)
 
 #### kcp288-homework07 - DOM Manipulation “Matchicode”
 The focus of this project was manipulating the DOM, setting element attributes and handling events. Result, a fun card matching game! 
 
 To play, just open `base.html` in the browser.
-![Matchicode](homework07/matchicode.png?raw=true “Matchicode“)
+![Matchicode](homework07/matchicode.png?raw=true =300x “Matchicode“)
 
 Check out the final project for this class in the ait-final-project repo. 
