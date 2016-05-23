@@ -41,6 +41,4 @@ Run locally using `npm install --save`, running `node bin/www` and then opening 
 The focus of this project was manipulating the DOM, setting element attributes and handling events. Result, a fun card matching game! 
 
 To play, just open `base.html` in the browser.
-
-<img src="homework07/matchicode.png” align=“center” width=“200px”>
-![](/homework07/matchicode.png?raw=true)
+![matchicode](/homework07/matchicode.png?raw=true “matchicode”)
