@@ -25,8 +25,8 @@ This MoviesDB uses the commandline mongodb client to create a database, collecti
 
 Run locally using `npm install --save`, running `node app.js` and then opening `localhost:3000/movies` in your browser.
 
-<img src="/homework05/movies_prev.png" width=“300">
-![MoviesDB](/homework05/movies_prev.png?raw=true =300x "Let's Watch Some Movies!"){:width="300px"}
+<img src="/homework05/movies_prev.png" width=“200">
+![MoviesDB](/homework05/movies_prev.png?raw=true =300x "Let's Watch Some Movies!")
 
 #### kcp288-homework06 - Shoppy Shopperson
 This app built on the work with mongodb and included creating schemae, adding slugs to the schema and extracting parameters from a URL path. The app allows the user to create grocery lists, check items of lists, and save multiple lists.
