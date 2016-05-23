@@ -43,4 +43,4 @@ The focus of this project was manipulating the DOM, setting element attributes a
 To play, just open `base.html` in the browser.
 
 <img src="homework07/matchicode.png” align=“center” width=“200px”>
-![](homework07/matchicode.png)
+![](/homework07/matchicode.png?raw=true)
