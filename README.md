@@ -1,5 +1,5 @@
 # ait-fullstack-projects
-Projects for Applied Internet Technology (a fullstack development course), Fall 2015. Topics included Javascript, server-side programming with Node and Express, client-side programming with Javascript and Handlebars framework, database design with a NoSQL database (MongoDB) and development tools. Instructions for running locally are provided below. Check out the final project for this class in the [ait-final-project](https://github.com/kcp288/ait-final-project) repo. 
+Projects for Applied Internet Technology (a fullstack development course). Topics included Javascript, server-side programming with Node and Express, client-side programming with Javascript and Handlebars framework, database design with a NoSQL database (MongoDB) and development tools. Instructions for running locally are provided below. Check out the final project for this class in the [ait-final-project](https://github.com/kcp288/ait-final-project) repo. 
 
 ### homework01 - Basic Javascript I: Blackjack App
 Beginning Javascript project. Implementation of a basic commandline blackjack app.
